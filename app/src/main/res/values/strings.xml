@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">iCalculator</string>
+    //Login
+    <string name="login_login">LOGIN</string>
+    <string name="login_prompt_email">Email</string>
+    <string name="login_prompt_password">Password</string>
+    <string name="login_action_sign_in_short">Login</string>
+    <string name="login_action_sign_in">Sign in</string>
+    <string name="login_welcome">"Welcome!"</string>
+    <string name="login_invalid_username">Not a valid username</string>
+    <string name="login_invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_register">Register</string>
+    <string name="login_question">Don\'t have a account?</string>
+    //Register
+    <string name="register_register">REGISTER</string>
+    <string name="register_prompt_re_password">Password again</string>
+    <string name="register_prompt_password">Password</string>
+    <string name="register_prompt_email">Email</string>
+    <string name="register_invalid_username">Not a valid username</string>
+    <string name="register_invalid_password">Password must be >5 characters</string>
+    <string name="register_invalid_re_password">Password not match</string>
+    <string name="register_failed">"Register failed"</string>
+    //Home
+
+</resources>

@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.iCalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondaryVariant</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="heading1">
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="heading2">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="heading3">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="heading4">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="body_detail">
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
